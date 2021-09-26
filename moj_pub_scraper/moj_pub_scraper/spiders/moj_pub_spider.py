@@ -1,6 +1,5 @@
 import scrapy
 import numpy as np
-import w3lib.html
 
 GOV_UK_URL = "www.gov.uk"
 MOJ_URL = "https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-justice&order=updated-newest"
