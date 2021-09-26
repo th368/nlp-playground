@@ -1,6 +1,6 @@
 import scrapy
 import numpy as np
-
+import w3lib.html
 
 GOV_UK_URL = "www.gov.uk"
 MOJ_URL = "https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-justice&order=updated-newest"
@@ -14,12 +14,23 @@ class moj_pub_scraper(scrapy.Spider):
     def parse(self, response):
 
         urls = []
-
         # create our url hub
-        url_hub = response.xpath('//*[@id="js-results"]/div/ul/li')
+        # url_hub = response.xpath('//*[@id="js-results"]/div/ul/li')
+        url_hub = response.xpath('//*[@id="js-results"]/div/ul/li//@href').getall()
+
+        # find next page tag -- need to get this working...
+        # next_page = response.xpath('//*[@id="js-pagination"]/nav/ul/li/a/@href').get()
+        # if next_page is not None:
+        #     response.follow(next_page, callback = self.parse)
+        #     url_hub.append(response.xpath('//*[@id="js-results"]/div/ul/li//@href').getall())
+        #     print(next_page)
+
         
+        # for url in url_hub:
+        #     yield response.follow(url.xpath('.//@href').get(), callback = self.parse_pub_page)
+        print(url_hub)
         for url in url_hub:
-            yield response.follow(url.xpath('.//@href').get(), callback = self.parse_pub_page)
+            yield response.follow(url, callback = self.parse_pub_page)
 
     def parse_pub_page(self, response):
         # pull out the classes for each object on our publication page
@@ -31,8 +42,8 @@ class moj_pub_scraper(scrapy.Spider):
             for url in html_links:
                 yield response.follow(url, callback = self.parse_pub)
         
-        
     def parse_pub(self, response):
+        
         yield {
-            'text': response.xpath('//*[@id="contents"]/div[3]/div/div/div//text()').getall()
+            'text': [item.strip() for item in response.xpath('//*[@id="contents"]/div[3]/div/div/div//text()').getall()]
         }
