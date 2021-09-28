@@ -14,7 +14,6 @@ class moj_pub_scraper(scrapy.Spider):
 
         urls = []
         # create our url hub
-        # url_hub = response.xpath('//*[@id="js-results"]/div/ul/li')
         url_hub = response.xpath('//*[@id="js-results"]/div/ul/li//@href').getall()
 
         for url in url_hub:
