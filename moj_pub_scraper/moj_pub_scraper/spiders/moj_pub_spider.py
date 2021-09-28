@@ -17,19 +17,14 @@ class moj_pub_scraper(scrapy.Spider):
         # url_hub = response.xpath('//*[@id="js-results"]/div/ul/li')
         url_hub = response.xpath('//*[@id="js-results"]/div/ul/li//@href').getall()
 
-        # find next page tag -- need to get this working...
-        # next_page = response.xpath('//*[@id="js-pagination"]/nav/ul/li/a/@href').get()
-        # if next_page is not None:
-        #     response.follow(next_page, callback = self.parse)
-        #     url_hub.append(response.xpath('//*[@id="js-results"]/div/ul/li//@href').getall())
-        #     print(next_page)
-
-        
-        # for url in url_hub:
-        #     yield response.follow(url.xpath('.//@href').get(), callback = self.parse_pub_page)
-        print(url_hub)
         for url in url_hub:
             yield response.follow(url, callback = self.parse_pub_page)
+
+        # find next page tag -- need to get this working...
+        next_page = response.xpath('//*[@id="js-pagination"]/nav/ul/li/a/@href')[-1].get()
+        if next_page is not None:
+            yield response.follow(next_page, callback = self.parse)
+
 
     def parse_pub_page(self, response):
         # pull out the classes for each object on our publication page
