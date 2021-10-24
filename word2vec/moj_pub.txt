@@ -1,0 +1,164 @@
+Number of deaths increased form the previous [:NUM:] month period  In the [:NUM:] months to June [:NUM:] there were [:NUM:] deaths in prison custody, an increase of [:PERC:] from [:NUM:] deaths the previous [:NUM:] months.
+ Of these, [:NUM:] deaths were self-inflicted, a [:PERC:] increase from the [:NUM:] self-inflicted deaths in the previous [:NUM:] months.
+ In the most recent quarter there were [:NUM:] deaths, a [:PERC:] decrease from a peak of [:NUM:] deaths in the previous quarter.
+    The rate of self-harm incidents decreased in male establishments from the previous [:NUM:] month period but increased in female establishments  There were [:NUM:] self-harm incidents in the [:NUM:] months to March [:NUM:] down [:PERC:] from the previous [:NUM:] months, comprising a [:PERC:] decrease in male establishments and a [:PERC:] decrease in female establishments.
+ Over the same period, the rate of self-harm incidents per [:NUM:] prisoners, which takes account of the reduction in the prison population between this and the previous year, decreased [:PERC:] in male establishments but increased [:PERC:] in female establishments.
+ In the most recent quarter, there were [:NUM:] self-harm incidents, down [:PERC:] on the previous quarter, comprising a [:PERC:] decrease in male establishments and a [:PERC:] decrease in female establishments.
+    The number of individuals self-harming decreased  There were [:NUM:] individuals self-harming in the [:NUM:] months to March [:NUM:] down [:PERC:] from the previous [:NUM:] months.
+ The number of self-harm incidents per individual decreased from [:NUM:] in the [:NUM:] months to March [:NUM:] to [:NUM:] in the [:NUM:] months to March [:NUM:]    Assaults decreased from the previous [:NUM:] month period  There were [:NUM:] assault incidents in the [:NUM:] months to March [:NUM:] down [:PERC:] from the [:NUM:] months to March [:NUM:] In the most recent quarter, assaults decreased by [:PERC:] to [:NUM:] incidents.
+    Assaults on staff have decreased  There were [:NUM:] assaults on staff in the [:NUM:] months to March [:NUM:] down [:PERC:] from the previous [:NUM:] months.
+ In the latest quarter the number of assaults decreased by [:PERC:] to [:NUM:] incidents.
+    The number of serious assaults decreased [:PERC:] of all assaults were serious  In the [:NUM:] months to March [:NUM:] there were [:NUM:] serious assault incidents, a decrease of [:PERC:] from the previous [:NUM:] months.
+ Serious prisoner-on-prisoner assaults decreased by [:PERC:] to [:NUM:] in the [:NUM:] months to March [:NUM:] Serious assaults on staff also decreased, by [:PERC:] to [:NUM:]     Statisticians comment  In the [:NUM:] months to March [:NUM:] we have seen falls in the number of self-harm and assault incidents, and in the [:NUM:] months to June [:NUM:] we have seen an increase in the number of deaths.
+ Statistics for these periods relate to the exceptional period since the start of the Covid-19 pandemic, including reduced activity within the Criminal Justice System and the restricted regimes prisons put in place in order to safely manage the risks of infection during the pandemic (see Further Information at the end of this bulletin).
+ Comparisons of these statistics with earlier periods will reflect the impact of Covid-19 as well as underlying trends.
+  Deaths have increased by [:PERC:] to [:NUM:] deaths in the year to June [:NUM:] This has been driven by deaths related to Covid-19.
+ However, in the latest quarter deaths fell by [:PERC:] to [:NUM:] from a peak of [:NUM:] in the previous quarter, and only two were suspected to be due to Covid-19.
+ There were [:NUM:] self-inflicted deaths in the latest year, a small increase from [:NUM:] in the previous year.
+  The number of self-harm incidents has fallen in the [:NUM:] months to March [:NUM:] by [:PERC:], comprising decreases of [:PERC:] in male establishments and [:PERC:] in female establishments.
+ This partially reflects a fall in the prison population over the same period, with fewer receptions of sentenced offenders following reduced court activity in response to Covid-19 (as set out in Offender management statistics quarterly: October to December [:NUM:].
+ With the fall in the prison population taken into account, the rate of self-harm incidents per [:NUM:] prisoners decreased by [:PERC:] in male establishments but increased by [:PERC:] in female establishments in the [:NUM:] months to March [:NUM:]  The number of assault incidents fell by [:PERC:] in the [:NUM:] months to March [:NUM:] including a [:PERC:] fall in serious assaults.
+ In addition to reflecting the reduced prison population, this is expected to be influenced by the reduced contact included in prison regimes to reduce the risk of Covid-19 infection.
+ Taking the fall in the population into account, assault rates decreased in both male and female establishments, by [:PERC:] and [:PERC:] respectively.
+  Background  Safety in custody statistics cover deaths, self-harm and assaults in prison custody and HMPPS Immigration Removal Centres in England and Wales, with figures in the summary tables in the quarterly publications presented on a [:NUM:] month rolling basis over an [:NUM:] year time series [footnote [:NUM:] .
+ This release provides statistics on deaths of prisoners to the end of June [:NUM:] and deaths from Covid-19 have been presented in the section below.
+  The release also provides statistics on assaults and self-harm up to the end of March [:NUM:] The latest [:NUM:] month data reflects a full year since the outbreak of Covid-19, when Covid-19 restrictions were introduced in prisons to limit and control the spread of the virus.
+ These restrictions included the implementation of effective isolation of prisoners, reverse cohorting of new entrants to custody, and shielding of vulnerable prisoners.
+ See Further Information at the end of this bulletin on the managing and running of prisons during the pandemic.
+  The total prison population has fallen since the first quarter of [:NUM:] falling more so for certain population groups [footnote [:NUM:] .
+ As at [:NUM:] March [:NUM:] the total prison population was around [:NUM:] or [:PERC:] smaller than at the same point in the previous year [footnote [:NUM:] .
+ The female population was reduced by [:PERC:], whereas the male population has reduced by [:PERC:].
+  These changes in population should be borne in mind when interpreting changes in the numbers of incidents over the past year.
+ In the context of substantial population change, rates per [:NUM:] prisoners more accurately describe changes in the likelihood of incidents occurring [footnote [:NUM:] .
+ Data on deaths, self-harm and assaults are routinely presented as rates of incidents per [:NUM:] prisoners (as well as numbers) for all prisoners and the male and female estates.
+ Additional commentary is offered where these rates indicate different trends to the numbers of incidents.
+  Supplementary annual tables, providing more in-depth statistics on a calendar year basis, underlying data files with pivot tables providing lower level granularity, and a guidance technical document are also available alongside this bulletin, at  .
+  Youth Estate  These statistics include incidents that occurred in the youth estate.
+ However, readers should be aware of the  Safety in the children and young people secure estate  statistics bulletin.
+ This provides quarterly statistics on assault and self-harm incidents, and deaths for children and young people in the secure estate.
+ It is being published simultaneously to this Safety in Custody quarterly bulletin at the following link:   For continuity in the Safety in Custody data series, incidents in the youth estate and associated tables are included in this Safety in Custody bulletin, but readers are referred to Safety in the children and young people secure estate for commentary.
+  Historically Safety in Custody statistics for the youth estate use an age-based definition for youth incidents, whereas the Safety in the children and young people secure estate statistics are based on the accommodation type.
+ Both methodologies include all incidents occurring in dedicated under-18 Young Offender Institutions (even if theyre aged over [:NUM:] [footnote [:NUM:] .
+ However, Safety in Custody statistics also includes all incidents in other establishments involving young people aged [:NUM:] to [:NUM:] Furthermore, Safety in the children and young people secure estate statistics also includes all incidents within the youth estate at Parc Young Peoples Unit and the under [:NUM:] part of Feltham as well as other custody settings holding under [:NUM:] previously not covered by Safety in Custody.
+ For continuity and to align with the definition of the youth estate used in Safety in the children and young people secure estate, tables in this publication present data for the latest year(s) using both the historic methodology of Safety in Custody and also the methodology of the youth publication [footnote [:NUM:] .
+   [:NUM:] Deaths: [:NUM:] months ending June [:NUM:]           Number of deaths increased from the previous [:NUM:] month period  In the [:NUM:] months to June [:NUM:] there were [:NUM:] deaths in prison custody, an increase of [:PERC:] from [:NUM:] deaths in the previous [:NUM:] months which corresponds with deaths related to Covid-19.
+ There were [:NUM:] self-inflicted deaths, an increase of [:PERC:] from [:NUM:] in the previous [:NUM:] months.
+ In the most recent quarter there were [:NUM:] deaths, a [:PERC:] decrease from a peak of [:NUM:] deaths in the previous quarter.
+    The number of deaths related to Covid-19 decreased in the most recent quarter  In the most recent quarter (April to June [:NUM:], there were 2 deaths ([:PERC:] of total deaths) that were suspected to be due to Covid-19, a decrease from [:NUM:] deaths ([:PERC:] of total deaths) in the previous quarter.
+ In the same period, there were 3 deaths within [:NUM:] days of having a positive Covid-19 test or where there was a clinical assessment that Covid-19 was a contributory factor, a decrease from [:NUM:] in the previous quarter.
+ There were [:NUM:] self-inflicted deaths in the most recent quarter, 6 less than in the previous quarter.
+     Figure [:NUM:] Quarterly [:NUM:] month rolling rate of deaths per [:NUM:] prisoners, [:NUM:] months ending June [:NUM:] to [:NUM:] months ending June [:NUM:] with quarterly rates   In the [:NUM:] months to June [:NUM:] there were [:NUM:] deaths in prison custody (a rate of [:NUM:] per [:NUM:] prisoners), an increase from [:NUM:] deaths in the previous [:NUM:] months (a rate of [:NUM:] per [:NUM:] prisoners).
+ Long-term trends and more detail are presented in the annual tables [footnote [:NUM:] .
+  Over the same period, there were [:NUM:] deaths due to natural causes (a rate of [:NUM:] per [:NUM:] prisoners), a [:PERC:] increase from [:NUM:] deaths (a rate of [:NUM:] per [:NUM:] prisoners) in the previous [:NUM:] months.
+ This increase of [:NUM:] in deaths due to natural causes in the [:NUM:] months to June [:NUM:] reflects deaths from Covid-19 (with further information on these below).
+  There were [:NUM:] apparent self-inflicted deaths in the [:NUM:] months to June [:NUM:] an increase of [:PERC:] from [:NUM:] self-inflicted deaths in the previous [:NUM:] months.
+ The rate of self-inflicted deaths increased from [:NUM:] per [:NUM:] prisoners in the previous [:NUM:] months to [:NUM:] in the latest [:NUM:] months.
+  There were [:NUM:] deaths recorded as Other in the [:NUM:] months to June [:NUM:] [:NUM:] of which are awaiting further information prior to being classified.
+ In some cases, the results of the toxicology and post-mortem tests are inconclusive, meaning classification cannot be arrived at until inquest (which can be a considerable time after the death).
+ As a result, the number of deaths in the individual categories is not directly comparable with earlier years: it is likely that numbers in some categories will be revised upwards once classifications have been finalised.
+  In the most recent quarter there were [:NUM:] deaths, a [:PERC:] decrease from a peak of [:NUM:] deaths in the previous quarter.
+ This reflected a large decrease in deaths from Covid-19 (further information below) in the 3 months to June [:NUM:] following a peak in Covid-19 deaths the previous quarter.
+ There were [:NUM:] self-inflicted deaths in the second quarter of [:NUM:] a decrease from [:NUM:] in the previous quarter.
+ However, quarterly death figures should be considered with caution due to greater volatility and the potential for seasonal effects.
+  Deaths from Covid-19  From the start of the pandemic in March [:NUM:] to the end of June [:NUM:] [:NUM:] prisoners have died within [:NUM:] days of having a positive Covid-19 test or where there was a clinical assessment that Covid-19 was a contributory factor in their deaths regardless of the cause of death.
+ Of these [:NUM:] deaths, [:NUM:] are suspected to be due to Covid-19.
+ The remaining [:NUM:] deaths are believed to be due to other causes although the prisoner had tested positive for Covid-19.
+  In the latest quarter (April to June [:NUM:], a lower proportion of deaths were related to Covid-19 than in previous quarters of [:NUM:]21.
+ In this quarter, [:PERC:] of all deaths were of prisoners who had died within [:NUM:] days of a positive test for Covid-19, down from [:PERC:] of all deaths in the previous quarter.
+ Similarly, deaths suspected to have been due to Covid-19 made up [:PERC:] of all deaths in the latest quarter, down from [:PERC:] in the previous quarter.
+  As with all deaths in prison custody, each case will be investigated by the Prisons and Probation Ombudsman and subject to an inquest to determine the official cause of death and where necessary this data will be updated.
+  The most up to date data on deaths suspected to be due to Covid-19 can be found here:    [:NUM:] Self-harm: [:NUM:] months to March [:NUM:]           The rate of self-harm incidents decreased in the male estate from the previous [:NUM:] month period but increased in the female estate  There were [:NUM:] self-harm incidents in the [:NUM:] months to March [:NUM:] down [:PERC:] from the previous [:NUM:] months (a [:PERC:] decrease in male establishments and a [:PERC:] decrease in female establishments).
+ Taking into account of the fall in the prison average population throughout [:NUM:] the rate of self-harm incidents per [:NUM:] prisoners decreased [:PERC:] in male establishments but increased [:PERC:] in female establishments in the [:NUM:] months to March [:NUM:] In the most recent quarter there were [:NUM:] self-harm incidents, down [:PERC:] on the previous quarter (a [:PERC:] decrease in male establishments and a [:PERC:] decrease in female establishments).
+    The number of individuals self-harming decreased [:PERC:] in the latest year.
+  There were [:NUM:] individuals self-harming in the [:NUM:] months to March [:NUM:] a [:PERC:] decrease from [:NUM:] in the previous [:NUM:] months.
+ The number of self-harm incidents per individual decreased to [:NUM:] in the [:NUM:] months to March [:NUM:] from [:NUM:] in the previous year.
+     Statistics for the [:NUM:] months to March [:NUM:] relate to the exceptional period since the start of the Covid-19 pandemic and the restricted regimes prisons put in place in order to safely manage the risks of infection during the pandemic (see Further Information at the end of this bulletin).
+ This affects the comparability of the statistics with earlier periods.
+  Figure [:NUM:] Quarterly [:NUM:] month rolling rate of self-harm incidents per [:NUM:] prisoners, [:NUM:] months ending March [:NUM:] to [:NUM:] months ending March [:NUM:] with quarterly rates   In the [:NUM:] months to March [:NUM:] there were [:NUM:] reported incidents of self-harm (a rate of [:NUM:] per [:NUM:] prisoners), down [:PERC:] from the previous [:NUM:] months.
+ On a quarterly basis, the number of incidents in the three months to March [:NUM:] decreased by [:PERC:] from the previous quarter, from [:NUM:] to [:NUM:] incidents.
+  The number of individuals self-harming decreased by [:PERC:] to [:NUM:] in the latest [:NUM:] months (a rate of [:NUM:] individuals per [:NUM:] prisoners), from [:NUM:] in the previous [:NUM:] months.
+ The number of incidents per self-harming individual decreased from [:NUM:] in the previous year to [:NUM:] in the latest [:NUM:] months, although a small number of prolific self-harmers have a disproportionate impact on this figure.
+ Just over a half ([:PERC:]) of prisoners who self-harmed in [:NUM:] did so more than once.
+  The number of self-harm incidents requiring hospital attendance decreased by [:PERC:] to [:NUM:] in the [:NUM:] months to March [:NUM:] and decreased by [:PERC:] in the latest quarter to [:NUM:] incidents.
+ The proportion of incidents that required hospital attendance decreased from [:PERC:] in the [:NUM:] months to March [:NUM:] to [:PERC:] in the latest [:NUM:] months.
+  Figure [:NUM:] Quarterly [:NUM:] month rolling rate of self-harm incidents per [:NUM:] prisoners by gender of establishment, [:NUM:] months ending March [:NUM:] to [:NUM:] months ending March [:NUM:]   Self-harm trends differ considerably by gender.
+ The number of incidents in male establishments decreased by [:PERC:] from [:NUM:] in the [:NUM:] months to March [:NUM:] to [:NUM:] in the [:NUM:] months to March [:NUM:] The number of incidents in the female estate decreased [:PERC:] from [:NUM:] in the previous [:NUM:] months to [:NUM:] On a quarterly basis, the number of incidents in the three months to March [:NUM:] decreased by [:PERC:] in male establishments compared with the previous three months and decreased by [:PERC:] in female establishments.
+  The rate of incidents, which takes population size into account, was [:NUM:] incidents per [:NUM:] prisoners in the male estate in the [:NUM:] months to March [:NUM:] down [:PERC:] from [:NUM:] incidents per [:NUM:] prisoners in the [:NUM:] months to March [:NUM:] The rate of incidents per [:NUM:] prisoners in female establishments was far higher, and increased by [:PERC:], from [:NUM:] in the previous [:NUM:] months to [:NUM:] in the latest [:NUM:] months.
+  The number of incidents per individual who self-harmed in female establishments was more than twice that in male establishments and increased in the latest year.
+ In the [:NUM:] months to March [:NUM:] there were [:NUM:] incidents of self-harm per self-harming female compared with [:NUM:] the previous [:NUM:] months, while for males it decreased to [:NUM:] incidents per self-harming individual from [:NUM:] the previous [:NUM:] months.
+  The proportion of incidents that required hospitalisation was higher in male establishments ([:PERC:] compared to [:PERC:] in female establishments).
+ Self-harm incidents requiring hospital attendance decreased in male establishments by [:PERC:], from [:NUM:] in the [:NUM:] months to March [:NUM:] to [:NUM:] in the [:NUM:] months to March [:NUM:] and increased by [:PERC:] to [:NUM:] in female establishments in the latest [:NUM:] months.
+   [:NUM:] Assaults: [:NUM:] months to March [:NUM:]           Assaults and serious assaults decreased from the previous [:NUM:] month period.
+  In the [:NUM:] months to March [:NUM:] there were [:NUM:] assault incidents, a [:PERC:] decrease from the previous [:NUM:] months.
+ Of these [:NUM:] were serious assaults, down by [:PERC:].
+ Rates of assault and serious assault per [:NUM:] prisoners decreased to a lesser extent, by [:PERC:] and [:PERC:] respectively.
+ Assaults decreased by [:PERC:] in the latest quarter to [:NUM:] incidents, although the number of serious assaults increased by [:PERC:] to [:NUM:] incidents.
+    The rate of assault per [:NUM:] prisoners was higher in female than male establishments.
+  The rate of assault in male establishments decreased by [:PERC:] from the previous [:NUM:] months, while the rate in female establishments decreased by [:PERC:].
+ This resulted in assault rates for the [:NUM:] months to March [:NUM:] being higher in female establishments (279 incidents per [:NUM:] prisoners) than in male establishments (237 incidents per [:NUM:] prisoners).
+    Assaults on staff decreased from the previous [:NUM:] month period  There were [:NUM:] assaults on staff in the [:NUM:] months to March [:NUM:] a [:PERC:] decrease from the previous [:NUM:] months.
+ The rate of assaults on staff per [:NUM:] prisoners decreased to a lesser extent, by [:PERC:].
+ In the latest quarter the number of assaults on staff decreased by [:PERC:] to [:NUM:] incidents.
+ The rate of assault on staff decreased by [:PERC:] in male establishments and by [:PERC:] in female establishments compared with the previous [:NUM:] months.
+     Statistics for the [:NUM:] months to March [:NUM:] relate to the exceptional period since the start of the Covid-19 pandemic and the restricted regimes prisons put in place in order to safely manage the risks of infection during the pandemic (see Further Information at the end of this bulletin).
+ This affects the comparability of the statistics with earlier periods.
+  Figure [:NUM:] Quarterly [:NUM:] month rolling rate of total assaults by gender of establishment, [:NUM:] months ending March [:NUM:] to [:NUM:] months ending March [:NUM:] with quarterly rates   In the [:NUM:] months to March [:NUM:] assault incidents decreased by [:PERC:] to [:NUM:] a rate of [:NUM:] incidents per [:NUM:] prisoners.
+ This represents a decrease in the rate of assault per [:NUM:] prisoners (which takes into account the decrease in the prison population over the period) of a lesser extent, [:PERC:].
+ In the latest quarter, there were [:NUM:] assaults, a decrease of [:PERC:] from the previous quarter.
+ The quarterly figure reached a peak of [:NUM:] in the July to September [:NUM:] quarter.
+ It has continued on a downward trend since then, including a considerable decrease in the early stages of the Covid-19 pandemic associated with changes in prison regimes and activity in the criminal justice system.
+  The number of incidents in male establishments decreased by [:PERC:] from [:NUM:] to [:NUM:] in the [:NUM:] months to March [:NUM:] The rate of assaults decreased to a similar extent over this period, by [:PERC:] to [:NUM:] per [:NUM:] prisoners.
+  The number of incidents in female establishments decreased by [:PERC:] from [:NUM:] to [:NUM:] incidents in the [:NUM:] months to March [:NUM:] The rate of assault also decreased over this period but to a lesser extent, by [:PERC:] to [:NUM:] per [:NUM:] prisoners.
+ With rates of assault decreasing to a greater extent in male establishments than in female establishments in the latest [:NUM:] months, assault rates were higher in female establishments than in male establishments.
+  In the latest quarter, the number of assaults in male establishments decreased by [:PERC:] to [:NUM:] and the number of assaults in female establishments decreased by [:PERC:] to [:NUM:]  Figure [:NUM:] Quarterly [:NUM:] month rolling rate of prisoner-on-prisoner assaults and assaults on staff, [:NUM:] months ending March [:NUM:] to [:NUM:] months ending March [:NUM:] with quarterly rates   There were [:NUM:] prisoner-on-prisoner assaults [footnote [:NUM:] in the [:NUM:] months to March [:NUM:] (a rate of [:NUM:] per [:NUM:] prisoners).
+ This is a decrease of [:PERC:] from the [:NUM:] assaults in the previous [:NUM:] months.
+ The rate of prisoner-on-prisoner assault per [:NUM:] prisoners decreased to a similar extent, [:PERC:].
+ In the latest quarter, there were [:NUM:] prisoner-on-prisoner assaults, a [:PERC:] decrease from [:NUM:] in the previous quarter.
+  There were [:NUM:] assaults on staff [footnote [:NUM:] in the [:NUM:] months to March [:NUM:] (a rate of [:NUM:] per [:NUM:] prisoners).
+ This is a [:PERC:] decrease from the [:NUM:] in the previous [:NUM:] months.
+ The rate of prisoner-on-staff assault per [:NUM:] prisoners decreased to a lesser extent, by [:PERC:].
+ In the latest quarter, there were [:NUM:] assaults on staff, a [:PERC:] decrease from [:NUM:] incidents in the previous quarter.
+  The proportion of assaults on staff increased to [:PERC:] of all incidents in the [:NUM:] months to March [:NUM:] from [:PERC:] in the previous [:NUM:] months, having steadily increased from [:PERC:] in the [:NUM:] months to March [:NUM:]  In male establishments, prisoner-on-prisoner assaults decreased by [:PERC:] to [:NUM:] incidents (149 incidents per [:NUM:] male prisoners), and the rate decreased similarly, by [:PERC:] in the [:NUM:] months to March [:NUM:] Assaults on staff decreased by [:PERC:] to [:NUM:] incidents (92 incidents per [:NUM:] male prisoners), and the rate decreased by [:PERC:] compared to the previous [:NUM:] months.
+  In female establishments, prisoner-on-prisoner assaults decreased by [:PERC:] to [:NUM:] incidents (120 incidents per [:NUM:] female prisoners), and the rate decreased by [:PERC:] in the [:NUM:] months to March [:NUM:] Assaults on staff decreased by [:PERC:] to [:NUM:] incidents (161 incidents per [:NUM:] female prisoners) compared to the previous [:NUM:] months, and the rate decreased to a lesser extent, by [:PERC:].
+  In the [:NUM:] months to March [:NUM:] the proportion of assaults that were on staff was higher in female establishments ([:PERC:]) than in male establishments ([:PERC:]).
+  Serious assaults           Of the [:NUM:] assault incidents, [:NUM:] ([:PERC:]) were serious.
+  In the [:NUM:] months to March [:NUM:] there were [:NUM:] serious assault incidents, a [:PERC:] decrease from the previous [:NUM:] months.
+ The rate of serious assault decreased to a slightly lesser extent, by [:PERC:] (taking account of decreases in population size over the period).
+ Serious prisoner-on-prisoner assaults decreased by [:PERC:] to [:NUM:] in the [:NUM:] months to March [:NUM:] and serious assaults on staff decreased by [:PERC:] to [:NUM:]     Serious assaults are those which fall into one or more of the following categories: a sexual assault; requires detention in outside hospital as an in-patient; requires medical treatment for concussion or internal injuries; or incurs any of the following injuries: a fracture, scald or burn, stabbing, crushing, extensive or multiple bruising, black eye, broken nose, lost or broken tooth, cuts requiring suturing, bites, temporary or permanent blindness.
+  Figure [:NUM:] Quarterly [:NUM:] month rolling rate of total serious assaults, serious prisoner-on-prisoner assaults, and serious assaults on staff, [:NUM:] months ending March [:NUM:] to [:NUM:] months ending March [:NUM:]   In the [:NUM:] months to March [:NUM:] there were [:NUM:] serious assaults (a rate of [:NUM:] per [:NUM:] prisoners), a [:PERC:] decrease from the previous [:NUM:] months.
+ The rate of serious assault decreased to a slightly lesser extent, by [:PERC:].
+ In the latest quarter, there were [:NUM:] serious assaults, a [:PERC:] increase from the previous quarter.
+ In the latest [:NUM:] months, [:PERC:] of assaults were serious assaults.
+  There were [:NUM:] serious prisoner-on-prisoner assaults (a rate of [:NUM:] per [:NUM:] prisoners) in the [:NUM:] months to March [:NUM:] a decrease of [:PERC:] from the previous [:NUM:] months.
+ The rate of serious prisoner-on-prisoner assault decreased to a similar extent, by [:PERC:].
+ In the latest quarter, there were [:NUM:] serious prisoner-on-prisoner assaults, a [:PERC:] increase from [:NUM:] incidents in the previous quarter.
+  There were [:NUM:] serious assaults on staff (a rate of 9 per [:NUM:] prisoners) in the [:NUM:] months to March [:NUM:] a decrease of [:PERC:] from the previous [:NUM:] months.
+ The rate of serious prisoner-on-staff assault also decreased, by [:PERC:].
+ In the latest quarter, the number of serious prisoner-on-staff assaults decreased by [:PERC:] to [:NUM:] incidents.
+  Further information  Covid-19  Since the start of the Covid-19 pandemic, there has been keen public and Parliamentary interest in how the Ministry of Justice (MOJ) and Her Majestys Prisons and Probation Service (HMPPS) are managing the running of prisons and the probation system to limit the spread of the virus while maintaining the core functions of these vital parts of the justice system.
+ The core tenet of HMPPSs prison strategy, building on Public Health England (PHE) and Public Health Wales (PHW) advice and learning developed in managing an early outbreak of the virus, is the implementation of effective isolation, reverse cohorting of new entrants to custody, and shielding of vulnerable prisoners.
+  The latest Covid-19 figures are published monthly on the MOJ website via the following link:    Accompanying files  As well as this bulletin, the following products are published as part of this release:    A technical guide providing further information on how the data are collected and processed, as well as information on the revisions policy and legislation relevant to sentencing trends and background on the functioning of the criminal justice system.
+    A set of summary tables for the latest quarter, and annual tables up to the latest calendar year.
+    Underlying data files with pivot tables, giving lower level granularity.
+    National Statistics status  National Statistics status means that official statistics meet the highest standards of trustworthiness, quality and public value.
+  All official statistics should comply with all aspects of the Code of Practice for Official Statistics.
+ They are awarded National Statistics status following an assessment by the UK Statistics Authoritys (UKSA) regulatory arm.
+ The UKSA considers whether the statistics meet the highest standards of Code compliance, including the value they add to public decisions and debate.
+  It is the Ministry of Justices responsibility to maintain compliance with the standards expected for National Statistics.
+ If we become concerned about whether these statistics are still meeting the appropriate standards, we will discuss any concerns with the UKSA promptly.
+ National Statistics status can be removed at any point when the highest standards are not maintained, and reinstated when standards are restored.
+  Our statisticians regularly review the content of publications.
+ Development of new and improved statistical outputs is usually dependent on reallocating existing resources.
+ As part of our continual review and prioritisation, we welcome user feedback on existing outputs including content, breadth, frequency and methodology.
+ Please send any comments you have on this publication including suggestions for further developments or reductions in content.
+  Contact  Press enquiries should be directed to the Ministry of Justice press office:
+Tel: [:NUM:] [:NUM:] [:NUM:]
+Email:  Other enquiries about these statistics should be directed to:  David Dawson   Data and Evidence as a Service, Ministry of Justice, [:NUM:] Petty France, London, SW1H [:NUM:]J  Email:  Next update: October [:NUM:]  URL :    Crown copyright  Produced by the Ministry of Justice.
+  Alternative formats are available on request from     Data on deaths is published three months ahead of self-harm and assaults.
+ Therefore, the deaths annual publication and tables are published alongside the Safety in Custody quarterly update to September publication.
+      .
+ Latest data for the year to June [:NUM:] is published in Offender Management Statistics Bulletin, England and Wales Quarterly: January to March [:NUM:]           The comparability over the year of other measures that are based on self-harming individuals (such as the number of incidents per self-harming individual, or the proportion of incidents requiring hospital attendance) are not affected by the reduction in population.
+     These are Cookham Wood, Werrington and Wetherby.
+     Assaults are presented based on both methodologies from April [:NUM:] and self-harm incidents are presented based on both methodologies from April [:NUM:]     Data on deaths are published three months ahead of assaults and self-harm, therefore, the annual publication Deaths in prison custody for [:NUM:] to [:NUM:] is published in the Safety in Custody quarterly update to September [:NUM:]       This figure includes any prisoner-on-prisoner assaults where there may also have been an assault on staff.
+     There was a change in how staff assaults have been recorded from April [:NUM:] this has simplified how incidents involving staff are identified, however it is possible this has increased the recording of incidents.
+ Please see the Guide to Safety in Custody statistics for further information
