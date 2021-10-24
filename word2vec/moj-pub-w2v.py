@@ -189,8 +189,8 @@ word2vec.fit(dataset, epochs=20, callbacks=[tensorboard_callback])
 weights = word2vec.get_layer('w2v_embedding').get_weights()[0]
 vocab = vectorize_layer.get_vocabulary()
 
-out_v = io.open('../vectors.tsv', 'w', encoding='utf-8')
-out_m = io.open('../metadata.tsv', 'w', encoding='utf-8')
+out_v = io.open('vectors.tsv', 'w', encoding='utf-8')
+out_m = io.open('metadata.tsv', 'w', encoding='utf-8')
 
 # Create and save the vectors and metadata file
 for index, word in enumerate(vocab):
