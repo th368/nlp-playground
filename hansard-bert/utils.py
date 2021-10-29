@@ -100,4 +100,4 @@ def evaluate_model(model, x_train, y_train, x_test, y_test):
 def predict_class(model, input, decoder):
     prediction = model.predict(input)
     print(prediction)
-    print('Speech predicted to be from: ', decoder[np.argmax(prediction)])
+    print('Speech predicted to be: ', decoder[np.argmax(prediction)])
