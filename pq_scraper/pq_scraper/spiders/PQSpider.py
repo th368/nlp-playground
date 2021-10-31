@@ -35,7 +35,12 @@ class PQSpider(CrawlSpider):
             pass
         else:
             answer="\n".join([a.strip() for a in answer]) # might want to change the join to ""
+            # do some basic cleaning of unicode issues
+            # these will need to be adjusted in the final outputs too
             answer=re.sub('’', "'", answer)
+            answer=re.sub('£', "£", answer)
+            answer=re.sub('–', "-", answer)
+            answer=re.sub('°', " degrees", answer)
             # extract answer date
             answer_date = answer_text[0].get().strip()
 
