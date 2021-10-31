@@ -3,21 +3,10 @@ import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
-from datetime import date
-answer_start_date = date.fromisoformat('2019-01-01')
-
-domains = [
-    "https://questions-statements.parliament.uk/written-questions?SearchTerm=&DateFrom=01%2F01%2F2009&DateTo=01%2F08%2F2022&AnsweredFrom=&AnsweredTo=&House=Commons&Answered=Answered&Expanded=True" # answered questions - Jan 09 to present
-    # "https://questions-statements.parliament.uk/written-questions?SearchTerm=&DateFrom=11%2F05%2F2021&DateTo=31%2F07%2F2022&AnsweredFrom=&AnsweredTo=&House=Commons&Answered=Unanswered&Expanded=True" # unawanswered questions
-    ]
-
 class PQSpider(CrawlSpider):
     name = "PQSpider"
 
     allowed_domains = ["questions-statements.parliament.uk"]
-    # start_urls = ["https://questions-statements.parliament.uk/written-questions?SearchTerm=&DateFrom=11%2F05%2F2021&DateTo=14%2F05%2F2021&AnsweredFrom=&AnsweredTo=&House=Commons&Answered=Answered&Expanded=True"]
-    # start_urls = ["https://questions-statements.parliament.uk/written-questions?SearchTerm=&DateFrom=11%2F05%2F2021&DateTo=31%2F07%2F2022&AnsweredFrom=01%2F10%2F2019&AnsweredTo=01%2F10%2F2021&House=Bicameral&Answered=Answered&Expanded=true"]
-    # start_urls = ["https://questions-statements.parliament.uk/written-questions"]
     start_urls = ["https://questions-statements.parliament.uk/written-questions?SearchTerm=&DateFrom=01%2F01%2F1990&DateTo=29%2F10%2F2021&AnsweredFrom=&AnsweredTo=&House=Commons&Answered=Answered&Expanded=True"] # this is the full set of PQs on record...
 
     rules = (
